@@ -23,9 +23,6 @@
 > xShop/v1 available here: <a href="https://github.com/a1Gard/xshop.v1">https://github.com/a1Gard/xshop.v1</a>
 
 
-## Installation
-
-> [!IMPORTANT]  
 > Create new database and rename `.env.example` to `.env` then update you `.env` configs so run this commands:
 
 ```bash
